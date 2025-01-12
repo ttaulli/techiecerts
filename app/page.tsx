@@ -4,9 +4,7 @@ import Head from 'next/head';
 const BrevoForm: React.FC = () => {
   return (
     <>
-      <Head>
-        <title>TechieCerts - AI-900 Updates</title>
-      </Head>
+
       <div className="bg-gradient-to-b from-blue-100 to-white min-h-screen flex items-center justify-center p-4">
         <div className="bg-white rounded-lg shadow-xl p-8 max-w-3xl w-full">
           <h1 className="text-3xl font-bold text-blue-600 mb-6">Welcome to TechieCerts.com</h1>
