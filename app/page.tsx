@@ -6,7 +6,7 @@ const BrevoForm: React.FC = () => {
       <div className="bg-white rounded-lg shadow-xl p-8 max-w-3xl w-full">
         <h1 className="text-3xl font-bold text-blue-600 mb-6">Welcome to TechieCerts.com</h1>
         <p className="text-gray-700 mb-4">
-          This is where you will find updates for Tom Taulli's upcoming book about the AI-900 exam.
+          This is where you will find updates for Tom Taull&apos;s upcoming book about the AI-900 exam.
         </p>
         <p className="text-gray-700 mb-6">
           Also, if you want to be notified of updates, you can sign up for the newsletter below.
