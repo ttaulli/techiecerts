@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "TechieCerts.com",
   description: "Updates for the AI-900 exam",
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({
