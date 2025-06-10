@@ -7,7 +7,7 @@ const HomePage: React.FC = () => {
         <div className="bg-white rounded-lg shadow-xl p-8 max-w-3xl w-full">
           <h1 className="text-3xl font-bold text-blue-600 mb-6">Welcome to TechieCerts.com</h1>
           <p className="text-gray-700 mb-4">
-            This is where you will find updates for Tom Taull&apos;s upcoming book about the AI-900 exam.
+            This is where you will find updates for Tom Taull&apos;s  book about the AI-900 exam.
           </p>
           <div className="mt-8">
             <img 
