@@ -10,5 +10,5 @@ This is the GitHub repo for the book: [https://github.com/ttaulli/ai-900-exam](h
 
 This repository contains updates, corrections, and additional resources for the book.
 
-
+There are also updates the following book:  AWS Certified Cloud Practitioner (CLF-C02) Study Guide: In-Depth Exam Prep and Practice
 
